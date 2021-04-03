@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlitzenPrancer
-- 👀 I’m interested in software development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Go programming language
 - 💞️ I’m looking to collaborate on building Go Projects
 - 📫 How to reach me : blitzenprancer666@gmail.com
