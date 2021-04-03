@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Go programming language
 - 💞️ I’m looking to collaborate on building Go Projects
-- 📫 How to reach me : email:blitzenprancer666@gmail.com
+- 📫 How to reach me : blitzenprancer666@gmail.com
 
 <!---
 BlitzenPrancer/BlitzenPrancer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
