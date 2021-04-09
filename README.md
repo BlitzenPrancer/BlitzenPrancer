@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlitzenPrancer
+- 👋 Heyy, I’m @BlitzenPrancer
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Go programming language
 - 💞️ I’m looking to collaborate on building Go Projects
