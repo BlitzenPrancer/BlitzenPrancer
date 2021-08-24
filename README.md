@@ -4,7 +4,7 @@ My Hobbies are Prgramming, Cricket, Hiking and Anime.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 I’m currently working on Image Processing                                                 
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ML/AI <img src="https://img.icons8.com/ios-filled/50/000000/learning.png"/>
+- 👯 I’m looking to collaborate on ML/AI <img height="50" width="50" src="<img src="https://img.icons8.com/ios-filled/50/000000/learning.png"/>"/>
 - 🤔 I’m looking for help with Placements in a Japanese Company
 - 💬 Ask me about Tech
 - 📫 How to reach me :
