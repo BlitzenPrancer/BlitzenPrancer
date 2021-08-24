@@ -23,4 +23,4 @@ My Hobbies are Prgramming, Cricket, Hiking and Anime.
 ### 💻 Workspace Spec
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-[![Hareesh's github stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&hide=issues,contribs&theme=dark)](https://github.com/hareesh-r/github-readme-stats)
+[![Sudarshan R's github stats](https://github-readme-stats.vercel.app/api?username=BlizenPrancer-r&hide=issues,contribs&theme=dark)](https://github.com/BlizenPrancer/github-readme-stats)
