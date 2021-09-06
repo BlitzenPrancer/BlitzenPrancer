@@ -9,7 +9,7 @@ Skills: Python3 / Go / C++ / C / Java
 - 🔭 I’m currently working on Image Processing 
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on ML/AI 
-- 🤔 I’m looking for help with I’m looking for help with Placements in a Japanese Company 
+- 🤔 I’m looking for help with Placements in a Japanese Company 
 - 💬 Ask me about Tech 
 - 📫 How to reach me: 18btrci046@jainuniversity.ac.in 
 - 😄 Pronouns: Techie 
